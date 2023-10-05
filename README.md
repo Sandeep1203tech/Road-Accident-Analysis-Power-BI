@@ -23,6 +23,7 @@ Primary KPI 2 - Total Accident values for Current Year and YoY growth.
 Insight -  Compared to last year(2021) total accidents have reduced by -11.7%.
 
 Primary KPI's 3,4,5 - Total casualities by accident severity for Cureent Year and YoY growth.
+
 Insights - Fatal, Serious and slight casualities have decreased compared to last year.
 
 Secondary KPI - Total Casualities with respect to vehicle type for Current Year.
